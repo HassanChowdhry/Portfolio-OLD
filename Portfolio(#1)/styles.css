@@ -1,0 +1,48 @@
+.navbar {
+  margin: 30px;
+  padding: 60px;
+  padding-right: 100px;
+}
+
+
+.intro {
+  text-align: center;
+  padding-bottom: 40px;
+}
+.card.left {
+  float: left;
+  margin-left: 100px;
+  width: 18rem;
+  text-align: left;
+}
+.card.right {
+  float: right;
+  text-align: left;
+  margin-right: 150px;
+  width: 18rem;
+  height: 19rem;
+}
+.picture {
+  border-radius: 100%;
+  width: 20%;
+}
+.icons {
+border-radius: 100%;
+margin: 0 20px;
+}
+.icons:hover {
+  opacity: 0.7;
+}
+
+
+
+
+#education {
+  text-align: center;
+  padding: 10%;
+}
+
+#skills {
+  text-align: center;
+  padding: 10%;
+}
