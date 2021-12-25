@@ -1,13 +1,12 @@
 .navbar {
-  margin: 30px;
+  margin-bottom: 30px;
   padding: 60px;
   padding-right: 100px;
 }
 
-
 .intro {
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 20rem;
 }
 .card.left {
   float: left;
