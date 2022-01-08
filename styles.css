@@ -3,9 +3,6 @@ h2 {
   font-weight: 600;
   font-size: 3rem;
 }
-body {
-  font-family: 'Inconsolata', monospace;
-}
 
 
 .h1 {
@@ -72,7 +69,7 @@ margin: 0 20px;
 
 .row {
   display: flex;
-  margin-left: 10rem;
+ 
 
 }
 
@@ -81,5 +78,20 @@ margin: 0 20px;
 }
 
 .flex-child:first-child {
-  margin-right: 20px;
+  
 } 
+
+.small-link {
+  color: #393E46;
+}
+.small-link:hover {
+  color: #00ADB5;
+}
+
+
+#experience {
+  padding:0 5rem 15rem;
+  text-align: center;
+  
+}
+
