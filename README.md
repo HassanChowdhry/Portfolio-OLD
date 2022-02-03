@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-Hello, my name is Hassan Chowdhry and this is my personal portfolio.
+Hello, My name is <b>Hassan Chowdhry</b> and this is my personal portfolio.
 
 <hr>
 
