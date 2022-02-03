@@ -2,7 +2,6 @@
 
 Hello, my name is Hassan Chowdhry and this is my personal portfolio.
 
-<br>
 <hr>
 
 ### My portfolio is seperated into four sections:
