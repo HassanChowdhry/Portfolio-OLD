@@ -6,10 +6,9 @@ Hello, my name is Hassan Chowdhry and this is my personal portfolio.
 
 ### My portfolio is seperated into four sections:
 - An <b><i>About Me</i></b> section with links to my social media accounts and contact information.
-- A <b><i>qualifications</i></b> section with some of my skills and my education background.<br>
-- An <b><i>Experience</i></b> yet to be filled.
-- A <b><i>Projects</i></b> section where I have linked the source code and link to the website for all the projects I have worked on.
-
+- A portion detailing my <b><i>qualifications</i></b>, including some of my abilities and academic background.
+- An <b><i>Experience</i></b> section.
+- A <b><i>Projects</i></b> section with links to the source code and websites for all of the projects I've worked on.
 <hr>
 
 ### Here is the Link to my Portfolio:
