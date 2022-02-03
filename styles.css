@@ -1,10 +1,15 @@
+ body {
+  font-family: 'Fuzzy Bubbles', cursive;
+  line-height: 2rem;
+ } 
+
 h2 {
   font-family: 'Caveat', cursive;
   font-weight: 600;
   font-size: 3rem;
 }
-body {
-  font-family: 'Inconsolata', monospace;
+h5 {
+  font-weight: 700;
 }
 
 
@@ -12,50 +17,38 @@ body {
   font-family: 'Yuji Hentaigana Akari', cursive;
   font-weight: 800;
   font-size: 1.5rem;
+
+  
 }
 .navbar {
   margin-bottom: 30px;
   padding: 1.5rem 10rem;
-  
+
 }
-
-
 
 
 .intro {
   text-align: center;
   padding: 7rem 0 20rem;
+  margin: 0 5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
-.card.left {
-  float: left;
-  margin-left: 10rem;
-  width: 25rem;
-  text-align: left;
 
-}
 .card-title {
   font-family: 'Caveat', cursive;
   font-weight: 600;
   font-size: 1.5rem;
 }
 
-
-
-
-.card.right {
-  float: right;
-  text-align: left;
-  margin-right: 150px;
-  width: 25rem;
-  height: 19rem;
-}
 .picture {
   border-radius: 100%;
-  width: 15%;
+  width: 50%;
 }
+
 .icons {
 border-radius: 100%;
-margin: 0 20px;
+margin: 0 0.5rem;
 }
 .icons:hover {
   opacity: 0.7;
@@ -63,23 +56,69 @@ margin: 0 20px;
 
 
 
-
 #qualifications {
   text-align: left;
+  padding-bottom: 5rem;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 5rem;
+}
+.title {
+  text-align: center;
+}
+.small-link {
+  color: #393E46;
+}
+.small-link:hover {
+  color: #00ADB5;
+}
+
+#experience {
+  padding:0 5rem 15rem;
+  text-align: center;
   
-  padding-bottom: 50rem;
 }
 
-.row {
-  display: flex;
-  margin-left: 10rem;
 
+
+#projects {
+  padding:0 5rem 15rem;
+  text-align: center;
+  
 }
+ .project-list {
+   text-align: left;
+ }
 
-.flex-child { 
-  flex: 1;
+
+
+
+
+
+
+
+
+@media (max-width: 1080px) {
+
+  .intro {
+    padding: 1rem 0 10rem;
+    margin: 0 ;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 2rem;
+  }
+
+  .picture {
+    border-radius: 100%;
+    width: 50%;
+  }
+
+  .grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 2rem;
+  }
 }
-
-.flex-child:first-child {
-  margin-right: 20px;
-} 
