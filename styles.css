@@ -1,12 +1,15 @@
-/* body {
-  background-color: #171717;
-  color: #EDEDED;
-} */
+ body {
+  font-family: 'Fuzzy Bubbles', cursive;
+  line-height: 2rem;
+ } 
 
 h2 {
   font-family: 'Caveat', cursive;
   font-weight: 600;
   font-size: 3rem;
+}
+h5 {
+  font-weight: 700;
 }
 
 
@@ -45,7 +48,7 @@ h2 {
 
 .icons {
 border-radius: 100%;
-margin: 0 20px;
+margin: 0 0.5rem;
 }
 .icons:hover {
   opacity: 0.7;
@@ -73,12 +76,30 @@ margin: 0 20px;
   color: #00ADB5;
 }
 
-
 #experience {
   padding:0 5rem 15rem;
   text-align: center;
   
 }
+
+
+
+#projects {
+  padding:0 5rem 15rem;
+  text-align: center;
+  
+}
+ .project-list {
+   text-align: left;
+ }
+
+
+
+
+
+
+
+
 
 @media (max-width: 1080px) {
 
@@ -100,5 +121,4 @@ margin: 0 20px;
     grid-template-columns: 1fr;
     grid-row-gap: 2rem;
   }
-
 }
