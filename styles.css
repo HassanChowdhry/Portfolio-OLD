@@ -103,6 +103,10 @@ margin: 0 0.5rem;
 
 @media (max-width: 1080px) {
 
+  .card {
+    margin: 0 5rem;
+  }
+
   .intro {
     padding: 1rem 0 10rem;
     margin: 0 ;
