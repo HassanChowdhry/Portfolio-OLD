@@ -4,7 +4,7 @@ Hello, My name is <b>Hassan Chowdhry</b> and this is my personal portfolio.
 
 <hr>
 
-### My portfolio is seperated into four sections:
+### My portfolio is separated into four sections:
 - An <b><i>About Me</i></b> section with links to my social media accounts and contact information.
 - A portion detailing my <b><i>qualifications</i></b>, including some of my abilities and academic background.
 - An <b><i>Experience</i></b> section.
