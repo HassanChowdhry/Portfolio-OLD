@@ -58,9 +58,8 @@ margin: 0 0.5rem;
 /* QUALIFICATIONS SECTION */
 #qualifications {
   text-align: left;
-  padding-bottom: 5rem;
+  padding: 1rem 0 1rem 1rem;
 }
-
 .grid{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -69,10 +68,15 @@ margin: 0 0.5rem;
 .title {
   text-align: center;
 }
-.small-link {
+
+.course-item {
+  padding: 1.5rem 0;
+}
+  
+.links {
   color: #393E46;
 }
-.small-link:hover {
+.links:hover {
   color: #00ADB5;
 }
 
