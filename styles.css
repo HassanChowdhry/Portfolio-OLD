@@ -41,7 +41,7 @@ h5 {
 
 .picture {
   border-radius: 100%;
-  width: 50%;
+  width: 40%;
 }
 
 .icons {
@@ -96,9 +96,9 @@ h5 {
   color: #00ADB5;
 }
 
-.tools {
+.split {
   display: grid;
-  grid-template-columns: 150px 150px 150px;
+  grid-template-columns: 200px 200px;
 }
 
 /* EXPERIENCE SECTION */
@@ -120,6 +120,11 @@ h5 {
 
 .project-list li {
   margin-bottom: 50px;
+}
+
+.title-date {
+  display: flex;
+  justify-content: space-between;
 }
 
 @media (max-width: 1080px) {
