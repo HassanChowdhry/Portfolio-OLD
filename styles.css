@@ -127,6 +127,8 @@ h5 {
   justify-content: space-between;
 }
 
+
+
 @media (max-width: 1080px) {
   .card {
     margin: 0 5rem;
